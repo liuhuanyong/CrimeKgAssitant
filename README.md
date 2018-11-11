@@ -158,8 +158,16 @@ Crime assistant including crime type prediction and crime consult service based 
     question:撞死人逃跑要怎么处理
     answers: ['等待警察处理。，']
 
-# 罪刑知识查询
-
-
-
 # 总结
+1, 本项目实现的是以罪刑为核心的法务应用落地的一个demo事件.
+2, 本项目采用机器学习,深度学习的方法完成了罪名预测,客服问句类型预测多分类任务,取得了较好的性能,模型可以直接使用.
+3, 本项目构建起了一个20万问答集,856个罪名的知识库,分别存放在data/kg_crime.json和data/qa_corpus.json文件中.
+4, 法务问答,可以是智能客服在法律资讯网站中的一个应用场景落地. 本项目采用的是ES+语义相似度加权打分策略实现的问答技术路线, 权值计算与阈值设定可以用户指定.
+5, 对于罪名知识图谱中的知识可以进一步进行结构化处理,这是后期可以完善的地方.
+6, 如何将罪名,自寻,智能研判结合在一起,形成通路,其实可以进一步提升知识图谱在法务领域的应用.
+
+any question?
+请联系我:
+邮箱:lhy_in_blcu@126.com
+csdn:https://blog.csdn.net/lhy2014
+我的自然语言处理项目: https://liuhuanyong.github.io/
