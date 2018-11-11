@@ -88,6 +88,8 @@ class CrimeClassify(object):
         return label
 
 
+
+
 def test():
     handler = CrimeClassify()
     while(1):
