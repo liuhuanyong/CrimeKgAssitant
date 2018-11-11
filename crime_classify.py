@@ -91,9 +91,9 @@ class CrimeClassify(object):
 def test():
     handler = CrimeClassify()
     while(1):
-        sent = input('enter an sent to search:')
+        sent = input('crime desc:')
         label = handler.predict(sent)
-        print(label)
+        print('crime label:', label)
 
 if __name__ == '__main__':
     test()

@@ -145,6 +145,6 @@ class QuestionClassify(object):
 if __name__ == '__main__':
     handler = QuestionClassify()
     while (1):
-        sent = input('enter an sent to search:')
+        sent = input('question desc:')
         label, prob = handler.predict(sent)
-        print(label, prob)
+        print('question_type:', label, prob)
