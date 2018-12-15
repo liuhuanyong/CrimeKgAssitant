@@ -166,8 +166,9 @@ Crime assistant including crime type prediction and crime consult service based 
 5, 对于罪名知识图谱中的知识可以进一步进行结构化处理,这是后期可以完善的地方.  
 6, 如何将罪名,咨询,智能研判结合在一起,形成通路,其实可以进一步提升知识图谱在法务领域的应用.  
 
-any question?  
-请联系我:  
+# contact 
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，请联系我:  
 邮箱:lhy_in_blcu@126.com  
 csdn:https://blog.csdn.net/lhy2014  
 我的自然语言处理项目: https://liuhuanyong.github.io/  
+刘焕勇，中国科学院软件研究所  
