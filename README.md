@@ -182,5 +182,5 @@ csdn:https://blog.csdn.net/lhy2014
 我的自然语言处理项目: https://liuhuanyong.github.io/  
 刘焕勇，中国科学院软件研究所  
 
-##TODO
-finetune llama2 with dataset to lawllama2
+## TODO
+finetune llama2 with dataset to lawllama2 
