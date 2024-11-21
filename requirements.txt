@@ -1,0 +1,6 @@
+tensorflow
+keras
+pandas
+jieba
+python-multipart
+fastapi
